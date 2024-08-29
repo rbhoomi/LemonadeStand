@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828191118_updatedTotalAmountType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LemonadeStand\\Migrations\\20240828191118_updatedTotalAmountType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\model\\createorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\model\\createorderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\data\\lemonadestandefcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\data\\lemonadestandefcoredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\controllers\\lemonadestandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\controllers\\lemonadestandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\entities\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\entities\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828184609_updateddatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LemonadeStand\\Migrations\\20240828184609_updateddatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\model\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\model\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\entities\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\model\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\migrations\\20240828135344_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\migrations\\20240828135344_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\migrations\\lemonadestandefcoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\migrations\\lemonadestandefcoredbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\lemonadestand.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\lemonadestand.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\enums\\itemsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\enums\\itemsize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Entities\\OrderItems.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Entities\\OrderItems.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Entities\\OrderItems.cs",
+              "RelativeToolTip": "LemonadeStand\\Entities\\OrderItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:48:06.637Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240828191118_updatedTotalAmountType.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828191118_updatedTotalAmountType.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Migrations\\20240828191118_updatedTotalAmountType.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828191118_updatedTotalAmountType.cs",
+              "RelativeToolTip": "LemonadeStand\\Migrations\\20240828191118_updatedTotalAmountType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:11:18.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LemonadeStandEFCoreDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Data\\LemonadeStandEFCoreDBContext.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Data\\LemonadeStandEFCoreDBContext.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Data\\LemonadeStandEFCoreDBContext.cs",
+              "RelativeToolTip": "LemonadeStand\\Data\\LemonadeStandEFCoreDBContext.cs",
+              "ViewState": "AgIAABEAAACA//////8gwBQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T00:53:52.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateOrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Model\\CreateOrderViewModel.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Model\\CreateOrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Model\\CreateOrderViewModel.cs",
+              "RelativeToolTip": "LemonadeStand\\Model\\CreateOrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:36:56.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LemonadeStandController.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Controllers\\LemonadeStandController.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Controllers\\LemonadeStandController.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Controllers\\LemonadeStandController.cs",
+              "RelativeToolTip": "LemonadeStand\\Controllers\\LemonadeStandController.cs",
+              "ViewState": "AgIAAA4AAADQlpmZmZk2wC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:25:18.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Entities\\Order.cs",
+              "RelativeToolTip": "LemonadeStand\\Entities\\Order.cs",
+              "ViewState": "AgIAAAMAAACAy8zMzMwcwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:45:04.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240828184609_updateddatatype.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828184609_updateddatatype.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Migrations\\20240828184609_updateddatatype.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828184609_updateddatatype.cs",
+              "RelativeToolTip": "LemonadeStand\\Migrations\\20240828184609_updateddatatype.cs",
+              "ViewState": "AgIAAAoAAAAA+DIzMzPjvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:46:09.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Entities\\Menu.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Entities\\Menu.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Entities\\Menu.cs",
+              "RelativeToolTip": "LemonadeStand\\Entities\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:35:54.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Model\\MenuViewModel.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Model\\MenuViewModel.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Model\\MenuViewModel.cs",
+              "RelativeToolTip": "LemonadeStand\\Model\\MenuViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:35:47.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Model\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Model\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Model\\ResponseModel.cs",
+              "RelativeToolTip": "LemonadeStand\\Model\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:43:39.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LemonadeStand\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAABIAAADA9v////8fwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T15:19:16.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Program.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Program.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Program.cs",
+              "RelativeToolTip": "LemonadeStand\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAMjMzMzMrwAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:10:12.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240828135344_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828135344_Initial.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Migrations\\20240828135344_Initial.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828135344_Initial.cs",
+              "RelativeToolTip": "LemonadeStand\\Migrations\\20240828135344_Initial.cs",
+              "ViewState": "AgIAABcAAAAAV2ZmZmYSwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:53:44.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LemonadeStand\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LemonadeStand\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T09:21:53.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "LemonadeStand\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\appsettings.Development.json",
+              "RelativeToolTip": "LemonadeStand\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T01:51:29.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LemonadeStandEFCoreDBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\LemonadeStandEFCoreDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Migrations\\LemonadeStandEFCoreDBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\LemonadeStandEFCoreDBContextModelSnapshot.cs",
+              "RelativeToolTip": "LemonadeStand\\Migrations\\LemonadeStandEFCoreDBContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:54:08.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\WeatherForecast.cs",
+              "RelativeToolTip": "LemonadeStand\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:25:04.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LemonadeStand",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\LemonadeStand.csproj",
+              "RelativeDocumentMoniker": "LemonadeStand\\LemonadeStand.csproj",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\LemonadeStand.csproj",
+              "RelativeToolTip": "LemonadeStand\\LemonadeStand.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-28T01:44:43.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ItemSize.cs",
+              "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Enums\\ItemSize.cs",
+              "RelativeDocumentMoniker": "LemonadeStand\\Enums\\ItemSize.cs",
+              "ToolTip": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Enums\\ItemSize.cs",
+              "RelativeToolTip": "LemonadeStand\\Enums\\ItemSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T18:39:36.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
