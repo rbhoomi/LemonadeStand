@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\entities\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\entities\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Git\\ReleaseNotes.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828191118_updatedTotalAmountType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LemonadeStand\\Migrations\\20240828191118_updatedTotalAmountType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +28,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|c:\\users\\loaner\\source\\repos\\lemonadestand\\lemonadestand\\entities\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D715E8B2-64E9-4259-AD59-6D977A827974}|LemonadeStand\\LemonadeStand.csproj|solutionrelative:lemonadestand\\entities\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828184609_updateddatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,11 +89,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "OrderItems.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Entities\\OrderItems.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Entities\\OrderItems.cs",
@@ -104,7 +107,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ReleaseNotes.html",
+              "DocumentMoniker": "C:\\Program Files\\Git\\ReleaseNotes.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Git\\ReleaseNotes.html",
+              "ToolTip": "C:\\Program Files\\Git\\ReleaseNotes.html",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Git\\ReleaseNotes.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-29T12:24:26.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20240828191118_updatedTotalAmountType.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828191118_updatedTotalAmountType.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Migrations\\20240828191118_updatedTotalAmountType.cs",
@@ -117,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LemonadeStandEFCoreDBContext.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Data\\LemonadeStandEFCoreDBContext.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Data\\LemonadeStandEFCoreDBContext.cs",
@@ -130,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CreateOrderViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Model\\CreateOrderViewModel.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Model\\CreateOrderViewModel.cs",
@@ -143,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LemonadeStandController.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Controllers\\LemonadeStandController.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Controllers\\LemonadeStandController.cs",
@@ -156,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Entities\\Order.cs",
@@ -169,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20240828184609_updateddatatype.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828184609_updateddatatype.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Migrations\\20240828184609_updateddatatype.cs",
@@ -182,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Entities\\Menu.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Entities\\Menu.cs",
@@ -195,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MenuViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Model\\MenuViewModel.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Model\\MenuViewModel.cs",
@@ -208,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ResponseModel.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Model\\ResponseModel.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Model\\ResponseModel.cs",
@@ -221,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Controllers\\WeatherForecastController.cs",
@@ -234,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Program.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Program.cs",
@@ -247,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "20240828135344_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\20240828135344_Initial.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Migrations\\20240828135344_Initial.cs",
@@ -260,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "LemonadeStand\\Properties\\launchSettings.json",
@@ -273,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\appsettings.Development.json",
               "RelativeDocumentMoniker": "LemonadeStand\\appsettings.Development.json",
@@ -286,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LemonadeStandEFCoreDBContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Migrations\\LemonadeStandEFCoreDBContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Migrations\\LemonadeStandEFCoreDBContextModelSnapshot.cs",
@@ -299,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\WeatherForecast.cs",
@@ -316,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "LemonadeStand",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\LemonadeStand.csproj",
               "RelativeDocumentMoniker": "LemonadeStand\\LemonadeStand.csproj",
@@ -329,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ItemSize.cs",
               "DocumentMoniker": "C:\\Users\\Loaner\\source\\repos\\LemonadeStand\\LemonadeStand\\Enums\\ItemSize.cs",
               "RelativeDocumentMoniker": "LemonadeStand\\Enums\\ItemSize.cs",
